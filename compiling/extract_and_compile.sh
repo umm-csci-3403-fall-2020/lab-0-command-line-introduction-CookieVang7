@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 #extract and uncompress the NthPrime tar file
 tar -xzf NthPrime.tgz
