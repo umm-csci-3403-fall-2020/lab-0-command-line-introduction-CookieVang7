@@ -6,6 +6,10 @@ load '../test/test_helper/bats-file/load'
 
 dist=NthPrime
 
+#Chineng "Cookie" Vang
+#Lab 0
+#8-27-20
+
 #######################################
 # Set up to be run before each test
 #######################################
